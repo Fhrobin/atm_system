@@ -10,7 +10,7 @@ public class ATMSystem {
         Account a2 = new Account("Fazlul", 40, 11, "2017-08-16", "3333");
         Account b1 = new Account("Robin", 40, 23, "2018-08-16", "4444");
         Account b2 = new Account("Hoque", 40, 21, "2020-08-16", "5555");
-        Account b3 = new Account("Robin", 40, 31, "2018-08-16", "6666");
+        Account b3 = new Account("Robin", 40, 31, "2019-08-16", "6666");
         bank.addBankA(a1);
         bank.addBankA(a2);
         bank.addBankB(b1);
